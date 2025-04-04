@@ -9,4 +9,5 @@ Integration for pushing billing data from CloudMore to ConnectWise
 ## Dependencies
 
   * Python
+  * FastAPI
   * CloudMore Python SDK
